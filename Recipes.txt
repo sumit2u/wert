@@ -6,3 +6,6 @@ kher
 pasta
 checken
 thank you
+beans
+pizza
+done
